@@ -1,0 +1,9 @@
+export { default as Bhaskara } from './bhaskara';
+export { default as Calculo } from './calculo';
+export { default as Divisao } from './divisao';
+export { default as Mensagens } from './mensagens';
+export { default as Multiplicacao } from './multiplicacao';
+export { default as Potenciacao } from './potenciacao';
+export { default as Radiciacao } from './radiciacao';
+export { default as Soma } from './soma';
+export { default as Subtracao } from './subtracao';
